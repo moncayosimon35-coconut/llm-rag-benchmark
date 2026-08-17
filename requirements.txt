@@ -1,0 +1,10 @@
+sentence-transformers
+faiss-cpu
+numpy
+pandas
+scikit-learn
+matplotlib
+datasets
+tqdm
+pytest
+python-dotenv
