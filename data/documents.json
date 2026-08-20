@@ -1,0 +1,42 @@
+[
+  {
+    "id": "doc_001",
+    "title": "Introduction to Artificial Intelligence",
+    "text": "Artificial intelligence is the field of computer science concerned with creating systems capable of performing tasks that normally require human intelligence, such as reasoning, learning, perception, and language understanding."
+  },
+  {
+    "id": "doc_002",
+    "title": "Machine Learning",
+    "text": "Machine learning is a subfield of artificial intelligence in which algorithms learn patterns from data and use those patterns to make predictions or decisions without being explicitly programmed for every individual task."
+  },
+  {
+    "id": "doc_003",
+    "title": "Natural Language Processing",
+    "text": "Natural language processing focuses on enabling computers to process, understand, and generate human language. Modern NLP systems commonly use neural networks and transformer-based architectures."
+  },
+  {
+    "id": "doc_004",
+    "title": "Retrieval-Augmented Generation",
+    "text": "Retrieval-Augmented Generation, commonly known as RAG, combines information retrieval with language generation. A retrieval system finds relevant documents or passages, which are then provided to a language model as context for generating an answer."
+  },
+  {
+    "id": "doc_005",
+    "title": "Vector Embeddings",
+    "text": "Vector embeddings represent text as numerical vectors in a high-dimensional space. Semantically similar pieces of text tend to have similar vector representations, allowing systems to perform semantic search."
+  },
+  {
+    "id": "doc_006",
+    "title": "Information Retrieval",
+    "text": "Information retrieval is the process of finding relevant information from a collection of documents in response to a user's query. Retrieval systems can use lexical matching, semantic similarity, or combinations of both approaches."
+  },
+  {
+    "id": "doc_007",
+    "title": "Transformers",
+    "text": "Transformers are neural network architectures designed to process sequences using attention mechanisms. They became foundational to modern language models because they can model relationships between tokens efficiently."
+  },
+  {
+    "id": "doc_008",
+    "title": "Large Language Models",
+    "text": "Large language models are neural networks trained on large collections of text. They can perform tasks such as text generation, summarization, question answering, and translation."
+  }
+]

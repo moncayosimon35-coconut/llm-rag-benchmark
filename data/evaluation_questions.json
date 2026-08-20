@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is Retrieval-Augmented Generation?",
+    "relevant_document": "doc_004"
+  },
+  {
+    "question": "How does RAG help language models answer questions?",
+    "relevant_document": "doc_004"
+  },
+  {
+    "question": "What are vector embeddings?",
+    "relevant_document": "doc_005"
+  },
+  {
+    "question": "How does semantic search work?",
+    "relevant_document": "doc_005"
+  },
+  {
+    "question": "What is machine learning?",
+    "relevant_document": "doc_002"
+  },
+  {
+    "question": "What is natural language processing?",
+    "relevant_document": "doc_003"
+  },
+  {
+    "question": "What are transformers?",
+    "relevant_document": "doc_007"
+  },
+  {
+    "question": "What are large language models?",
+    "relevant_document": "doc_008"
+  },
+  {
+    "question": "What is information retrieval?",
+    "relevant_document": "doc_006"
+  },
+  {
+    "question": "How do computers represent text numerically?",
+    "relevant_document": "doc_005"
+  }
+]
